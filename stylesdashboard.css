@@ -1,0 +1,20 @@
+nav {
+  background-color: #153d60;
+  width: 20%;
+  padding: 15px;
+  max-width: 250px;
+}
+nav div {
+  font-size: 20px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+}
+nav ul {
+  list-style: none;
+  margin: 10px;
+}
+nav ul li {
+  list-style: none;
+  text-decoration: none;
+}/*# sourceMappingURL=stylesdashboard.css.map */
